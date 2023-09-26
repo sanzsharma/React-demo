@@ -1,2 +1,3 @@
 # React-demo
-This is react project repository
+This is react project repository. 
+Author - Santosh Sharma
